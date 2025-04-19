@@ -28,5 +28,5 @@ jupyter notebook Insider_Threat_Detection.ipynb
 ```
 
 ## Dataset
-Ensure the CMU Insider Threat dataset files are placed in a `./data/` folder at the root level.
+Ensure the CMU Insider Threat dataset r6.2 files are placed in a `./data/` folder at the root level.
 
