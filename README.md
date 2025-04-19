@@ -17,6 +17,7 @@ Utilizes scalable data handling via Dask and applies ensemble learning and deep 
 
 ## Structure
 - `Insider_Threat_Detection.py`: Main code
+- Insider_Threat_Detection.ipynb`: Notebook
 - `requirements.txt`: Python dependencies
 - `README.md`: This file
 
