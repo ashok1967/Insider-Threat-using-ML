@@ -16,7 +16,7 @@ Utilizes scalable data handling via Dask and applies ensemble learning and deep 
 - Epoch vs. Accuracy plots
 
 ## Structure
-- `Insider_Threat_Detection.ipynb`: Main notebook
+- `Insider_Threat_Detection.py`: Main code
 - `requirements.txt`: Python dependencies
 - `README.md`: This file
 
